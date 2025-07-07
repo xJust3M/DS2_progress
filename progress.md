@@ -1,3 +1,6 @@
+# Dark Souls 2 progress tracker
+
+## Základní hra:
 ✅ The Last Giant
 ✅ The Pursuer
 ✅ Dragonrider
@@ -26,3 +29,7 @@ Guardian Dragon
 Giant Lord
 Ancient Dragon 
 Ancie
+
+# DLC 1:
+# DLC 2:
+# DLC 3:
