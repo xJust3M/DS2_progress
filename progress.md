@@ -1,35 +1,50 @@
 # Dark Souls 2 progress tracker
 
 ## Základní hra:
-✅ The Last Giant
-✅ The Pursuer
-✅ Dragonrider
-Old Dragonslayer ★
-✅ Flexile Sentry ★
-✅ Ruin Sentinels
-✅ Belfry Gargoyles ★
-✅ Lost Sinner
-✅ Skeleton Lords
-Executioner's Chariot ★
-Covetous Demon
-Mytha, the Baneful Queen
-Smelter Demon ★
-Old Iron King
-✅ Royal Rat Vanguard ★
-The Rotten
-Scorpioness Najka
-✅ Royal Rat Authority ★
-Prowling Magus and Congregation
-Duke's Dear Freja
-Twin Dragonriders
-Looking Glass Knight
-Demon of Song
-Velstadt, the Royal Aegis
-Guardian Dragon
-Giant Lord
-Ancient Dragon 
-Ancie
+✅ The Last Giant <br>
+✅ The Pursuer <br>
+✅ Dragonrider <br>
+Old Dragonslayer ★ <br>
+✅ Flexile Sentry ★<br>
+✅ Ruin Sentinels<br>
+✅ Belfry Gargoyles ★<br>
+✅ Lost Sinner<br>
+✅ Skeleton Lords<br>
+Executioner's Chariot ★<br>
+Covetous Demon<br>
+Mytha, the Baneful Queen<br>
+Smelter Demon ★<br>
+Old Iron King<br>
+✅ Royal Rat Vanguard ★<br>
+The Rotten<br>
+✅ Scorpioness Najka<br>
+✅ Royal Rat Authority ★<br>
+✅ Prowling Magus and Congregation<br>
+Duke's Dear Freja<br>
+Twin Dragonriders<br>
+Looking Glass Knight<br>
+Demon of Song<br>
+Velstadt, the Royal Aegis<br>
+Guardian Dragon<br>
+Giant Lord<br>
+Ancient Dragon ★
+King Vendrick ★
+Darklurker ★
+Throne Watcher and Throne Defender
+Nashandra
+Aldia, Scholar of the First Sin ★
 
-# DLC 1:
-# DLC 2:
-# DLC 3:
+# DLC: Crown of the Sunken King:
+Elana, the Squalid Queen<br>
+Sinh, the Slumbering Dragon<br>
+Graverobber, Varg and Cerah (Cave of the Dead) ★<br>
+
+# DLC: Crown of the Old Iron King:
+Fume Knight<br>
+Sir Alonne<br>
+Blue Smelter Demon ★<br>
+
+# DLC: Crown of the Ivory King:
+Aava, the King's Pet<br>
+Lud and Zallen, the King's Pets ★<br>
+Burnt Ivory King<br>
