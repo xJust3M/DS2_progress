@@ -20,7 +20,7 @@ The Rotten<br>
 ✅ Scorpioness Najka<br>
 ✅ Royal Rat Authority ★<br>
 ✅ Prowling Magus and Congregation<br>
-Duke's Dear Freja<br>
+✅ Duke's Dear Freja<br>
 Twin Dragonriders<br>
 Looking Glass Knight<br>
 Demon of Song<br>
