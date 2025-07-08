@@ -13,7 +13,7 @@ Old Dragonslayer ★ <br>
 Executioner's Chariot ★<br>
 Covetous Demon<br>
 Mytha, the Baneful Queen<br>
-Smelter Demon ★<br>
+✅ Smelter Demon ★<br>
 Old Iron King<br>
 ✅ Royal Rat Vanguard ★<br>
 The Rotten<br>
