@@ -11,12 +11,12 @@ Old Dragonslayer ★ <br>
 ✅ Lost Sinner<br>
 ✅ Skeleton Lords<br>
 Executioner's Chariot ★<br>
-Covetous Demon<br>
-Mytha, the Baneful Queen<br>
+✅ Covetous Demon<br>
+✅ Mytha, the Baneful Queen<br>
 ✅ Smelter Demon ★<br>
-Old Iron King<br>
+✅ Old Iron King<br>
 ✅ Royal Rat Vanguard ★<br>
-The Rotten<br>
+✅ The Rotten<br>
 ✅ Scorpioness Najka<br>
 ✅ Royal Rat Authority ★<br>
 ✅ Prowling Magus and Congregation<br>
