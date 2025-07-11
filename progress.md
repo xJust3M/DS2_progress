@@ -4,13 +4,13 @@
 ✅ The Last Giant <br>
 ✅ The Pursuer <br>
 ✅ Dragonrider <br>
-Old Dragonslayer ★ <br>
+✅ Old Dragonslayer ★ <br>
 ✅ Flexile Sentry ★<br>
 ✅ Ruin Sentinels<br>
 ✅ Belfry Gargoyles ★<br>
 ✅ Lost Sinner<br>
 ✅ Skeleton Lords<br>
-Executioner's Chariot ★<br>
+✅ Executioner's Chariot ★<br>
 ✅ Covetous Demon<br>
 ✅ Mytha, the Baneful Queen<br>
 ✅ Smelter Demon ★<br>
