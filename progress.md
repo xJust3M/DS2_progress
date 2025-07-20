@@ -22,9 +22,9 @@
 ✅ Prowling Magus and Congregation<br>
 ✅ Duke's Dear Freja<br>
 ✅ Twin Dragonriders<br>
-Looking Glass Knight<br>
-Demon of Song<br>
-Velstadt, the Royal Aegis<br>
+✅ Looking Glass Knight<br>
+✅ Demon of Song<br>
+✅ Velstadt, the Royal Aegis<br>
 Guardian Dragon<br>
 Giant Lord<br>
 Ancient Dragon ★<br>
