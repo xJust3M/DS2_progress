@@ -25,12 +25,12 @@
 ✅ Looking Glass Knight<br>
 ✅ Demon of Song<br>
 ✅ Velstadt, the Royal Aegis<br>
-Guardian Dragon<br>
+✅ Guardian Dragon<br>
 Giant Lord<br>
 Ancient Dragon ★<br>
 King Vendrick ★<br>
-Darklurker ★<br>
-Throne Watcher and Throne Defender<br>
+✅ Darklurker ★<br>
+✅ Throne Watcher and Throne Defender<br>
 Nashandra<br>
 Aldia, Scholar of the First Sin ★<br>
 
