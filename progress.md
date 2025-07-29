@@ -31,8 +31,8 @@
 ✅ King Vendrick ★<br>
 ✅ Darklurker ★<br>
 ✅ Throne Watcher and Throne Defender<br>
-Nashandra<br>
-Aldia, Scholar of the First Sin ★<br>
+✅ Nashandra<br>
+✅ Aldia, Scholar of the First Sin ★<br>
 
 # DLC: Crown of the Sunken King:
 Elana, the Squalid Queen<br>
