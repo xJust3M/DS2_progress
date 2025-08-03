@@ -46,5 +46,5 @@ Blue Smelter Demon ★<br>
 
 # DLC: Crown of the Ivory King:
 ✅ Aava, the King's Pet<br>
-Lud and Zallen, the King's Pets ★<br>
-Burnt Ivory King<br>
+✅ Lud and Zallen, the King's Pets ★<br>
+✅ Burnt Ivory King<br>
