@@ -35,9 +35,9 @@
 ✅ Aldia, Scholar of the First Sin ★<br>
 
 # DLC: Crown of the Sunken King:
-Elana, the Squalid Queen<br>
-Sinh, the Slumbering Dragon<br>
-Graverobber, Varg and Cerah (Cave of the Dead) ★<br>
+✅ Elana, the Squalid Queen<br>
+✅ Sinh, the Slumbering Dragon<br>
+✅ Graverobber, Varg and Cerah (Cave of the Dead) ★<br>
 
 # DLC: Crown of the Old Iron King:
 Fume Knight<br>
